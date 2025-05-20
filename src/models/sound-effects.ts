@@ -300,7 +300,7 @@ export const mockSoundEffects: SoundEffect[] = [
     audioUrl: "/sounds/Feedback_4.mp3",
     waveform: [0.3, 0.5, 0.3, 0.1],
     createdAt: "2025-06-15",
-    featured: false,
+    featured: true,
     downloads: 2345,
   },
   {

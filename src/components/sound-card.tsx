@@ -59,7 +59,7 @@ const SoundCard = ({ sound }: SoundCardProps) => {
           <h3 className="font-medium text-white text-lg">{sound.name}</h3>
           <p className="text-gray-400 text-sm">{sound.description}</p>
         </div>
-        <span className="px-2 py-1 rounded-full text-xs bg-sound-purple bg-opacity-20 text-sound-purple">
+        <span className="px-2 py-1 rounded-full text-xs bg-purple-500 bg-opacity-20 text-white">
           {sound.category}
         </span>
       </div>
